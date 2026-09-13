@@ -21,7 +21,7 @@ Most of my work sits in private repositories; what is public here is what I can 
 ## How I use code
 
 I start from how the work is actually done, remove what does not need doing, and only then
-automate what is left. Code is the last step, not the first.
+automate what is left.
 
 ## Contact
 
